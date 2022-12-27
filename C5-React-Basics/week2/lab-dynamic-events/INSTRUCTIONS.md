@@ -1,6 +1,7 @@
 # Task
 
 When a user interacts with your React app, this will trigger events. You've learned how to handle user-generated events, so now you can reinforce what you've learned by practicing event handling. To make this more fun, in this exercise, you'll be building a simple number-guessing game.
+
 ## Instructions
 
 ### **Step 1**
