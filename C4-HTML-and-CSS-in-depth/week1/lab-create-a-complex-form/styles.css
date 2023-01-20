@@ -79,6 +79,7 @@ form > div {
 }
 
 input:focus:invalid {
+    
     color: red;
     border: red 3px solid;
 }
