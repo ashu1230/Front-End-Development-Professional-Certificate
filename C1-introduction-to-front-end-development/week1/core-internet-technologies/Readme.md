@@ -1,3 +1,1 @@
 ## Quiz - Core Internet Technologies
-
-
