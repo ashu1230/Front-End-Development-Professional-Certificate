@@ -20,7 +20,6 @@ Import the `Heading` component into the `App` component.
 Remove the sentence that reads: *This is the starting code for “Your first component” ungraded lab* - so that only the `Heading` JSX element remains in the return statement of the App component.
 
 ### **Step 4**
-
 Save and view the app in the browser.
 
 ## **Tips **
