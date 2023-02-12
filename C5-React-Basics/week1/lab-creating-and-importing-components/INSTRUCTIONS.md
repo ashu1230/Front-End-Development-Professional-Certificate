@@ -14,7 +14,6 @@ After you've clicked the *New File* command, you'll need to type the file name a
 Once you've typed *Heading.js*, press the ENTER key to finish the process of naming the file. Upon pressing the ENTER key, your new, empty *Heading.js* file will be shown, ready to be edited and updated with some code.
 
 ### **Step 2**
-
 Import the `Heading` component into the `App` component.
 
 ### **Step 3**
