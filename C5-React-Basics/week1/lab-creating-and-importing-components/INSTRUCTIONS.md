@@ -17,7 +17,6 @@ Once you've typed *Heading.js*, press the ENTER key to finish the process of nam
 Import the `Heading` component into the `App` component.
 
 ### **Step 3**
-
 Remove the sentence that reads: *This is the starting code for “Your first component” ungraded lab* - so that only the `Heading` JSX element remains in the return statement of the App component.
 
 ### **Step 4**
