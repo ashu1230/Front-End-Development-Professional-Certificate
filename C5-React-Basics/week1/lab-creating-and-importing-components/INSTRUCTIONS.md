@@ -5,7 +5,6 @@ Let's demonstrate this with a basic example. In this exercise, you'll practice s
 
 ## Instructions
 ### **Step 1** 
-
 Move the `Heading` function from App to a separate component file, named "Heading.js".  
 
 Also note that you can build a new file by right-clicking on the `src` folder, then in the right-click contextual menu that appears, clicking on the *New File* command.
