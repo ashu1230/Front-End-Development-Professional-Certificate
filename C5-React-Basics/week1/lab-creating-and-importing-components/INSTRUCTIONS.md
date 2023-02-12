@@ -4,7 +4,6 @@ You've learned that you can export a component either as a default export or as 
 Let's demonstrate this with a basic example. In this exercise, you'll practice saving a component to its own file and importing it into its parent component so that it can be rendered on the screen. 
 
 ## Instructions
-
 ### **Step 1** 
 
 Move the `Heading` function from App to a separate component file, named "Heading.js".  
