@@ -1,5 +1,4 @@
 ## Task
-
 You've learned that you can export a component either as a default export or as a named export. You've also learned how to import such components.  
 
 Let's demonstrate this with a basic example. In this exercise, you'll practice saving a component to its own file and importing it into its parent component so that it can be rendered on the screen. 
