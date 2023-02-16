@@ -13,7 +13,6 @@ Inside the opening button tag, add the onClick event-handling attribute, and pas
 
 ### **Step 4**
 
-
 Above the return statement of the App component - but still inside the App function - add the following ES5 function declaration: 
 ```js
 function handleClick() {
