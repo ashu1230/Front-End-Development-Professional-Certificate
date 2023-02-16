@@ -9,7 +9,6 @@ This task's starting point is the App component's h1 element that reads: "Task: 
 In between the opening and closing button tags, add the following text: `Guess the number between 1 and 3`.
 
 ### **Step 3**
-
 Inside the opening button tag, add the onClick event-handling attribute, and pass it the following JSX expression: `{handleClick}`.
 
 ### **Step 4**
