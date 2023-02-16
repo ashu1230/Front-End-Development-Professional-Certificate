@@ -3,7 +3,6 @@ When a user interacts with your React app, this will trigger events. You've lear
 ## Instructions
 
 ### **Step 1**
-
 This task's starting point is the App component's h1 element that reads: "Task: Add a button and handle a click event". As a first step in this task, you'll need to add a button element, with an opening and a closing button tag.
 
 ### **Step 2**
