@@ -11,8 +11,7 @@ In between the opening and closing button tags, add the following text: `Guess t
 ### **Step 3**
 Inside the opening button tag, add the onClick event-handling attribute, and pass it the following JSX expression: `{handleClick}`.
 
-### **Step 4**
-
+### **step 4**
 Above the return statement of the App component - but still inside the App function - add the following ES5 function declaration: 
 ```js
 function handleClick() {
