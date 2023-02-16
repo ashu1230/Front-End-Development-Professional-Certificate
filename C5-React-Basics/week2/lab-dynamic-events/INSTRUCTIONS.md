@@ -6,7 +6,6 @@ When a user interacts with your React app, this will trigger events. You've lear
 This task's starting point is the App component's h1 element that reads: "Task: Add a button and handle a click event". As a first step in this task, you'll need to add a button element, with an opening and a closing button tag.
 
 ### **Step 2**
-
 In between the opening and closing button tags, add the following text: `Guess the number between 1 and 3`.
 
 ### **Step 3**
